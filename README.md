@@ -13,7 +13,7 @@ User can update their preference from their device and the info gets updated in 
 
 | **Sign In Page** |  **Register Page** |
 | :------: | :----: |
-|![1](assets\signin.jpg)|![1](assets\reg.jpg)
+|<img src="assets\reg.jpg" height="300em" />|<img src="assets\settings.jpg" height="300em" />|
 |user can sign in here|user can register here|
 
 <br></br>
