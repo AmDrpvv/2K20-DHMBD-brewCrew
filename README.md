@@ -13,7 +13,7 @@ User can update their preference from their device and the info gets updated in 
 
 | **Sign In Page** |  **Register Page** |
 | :------: | :----: |
-|<img src="assets\reg.jpg" height="300em" />|<img src="assets\settings.jpg" height="300em" />|
+|<img src="assets\signIn.jpg" />|<img src="assets\reg.jpg"/>|
 |user can sign in here|user can register here|
 
 <br></br>
@@ -21,7 +21,7 @@ User can update their preference from their device and the info gets updated in 
 
 | **Home Page** |  **Settings Page** |
 | :------: | :----: |
-|![1](assets\main.jpg)|![1](assets\settings.jpg)
+|<img src="assets\main.jpg" />|<img src="assets\settings.jpg"/>|
 |user info will be displayed here|user can change their preferences|
 
 
