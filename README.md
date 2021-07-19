@@ -1,6 +1,6 @@
 # brew crew
 
-A flutter app used to get the coffee preferecnce info among a small group of people.
+A flutter app used to get the coffee preference info among a small group of people.
 
 User can update their preference from their device and the info gets updated in realtime in all devices.
 
